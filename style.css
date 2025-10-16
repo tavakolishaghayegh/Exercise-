@@ -1,3 +1,10 @@
+.outer-box,
+.middle-box,
+.inner-box {
+  box-sizing: content-box;
+  box-sizing: border-box;
+}
+
 .outer-box {
   width: 300px;
   padding: 20px;
