@@ -1,26 +1,13 @@
-.outer-box,
-.middle-box,
-.inner-box {
-  box-sizing: content-box;
-  box-sizing: border-box;
+.blue {
+  height: 20xp;
+  background-color: blue;
+  margin-bottom: 50xp;
+  padding-bottom: 20xp;
 }
 
-.outer-box {
-  width: 300px;
-  padding: 20px;
-  border: 5px solid red;
-  margin: 30px;
-  background-color: lightcoral;
-}
-
-.inner-box {
-  width: 100%;
-  padding: 10px;
-  border: 3px solid blue;
-  background-color: lightblue;
-}
-.core-box {
-  width: 100%;
-  border: 2px solid green;
-  background-color: lightgreen;
+.green {
+  height: 20xp;
+  background-color: green;
+  margin-top: 50xp;
+  border-top: 1px;
 }
